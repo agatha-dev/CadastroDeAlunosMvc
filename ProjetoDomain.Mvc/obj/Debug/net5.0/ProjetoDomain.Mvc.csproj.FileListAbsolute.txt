@@ -1,0 +1,11 @@
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\bin\Debug\net5.0\ProjetoDomain.Mvc.deps.json
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\bin\Debug\net5.0\ProjetoDomain.Mvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\bin\Debug\net5.0\ref\ProjetoDomain.Mvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\bin\Debug\net5.0\ProjetoDomain.Mvc.pdb
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.AssemblyInfoInputs.cache
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.AssemblyInfo.cs
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ref\ProjetoDomain.Mvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.pdb

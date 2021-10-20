@@ -1,0 +1,37 @@
+﻿@model CadastroDeAlunosMvc.Models.AlunoCadastroModel
+
+<div class="text-center">
+    <h1 class="display-4">Cadastro de Aluno</h1>
+    <form asp-controller="Aluno" asp-action="Adicionar" method="post">
+        <div>
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">Nome</label>
+                <input type="text" class="form-control" asp-for="@Model.Nome" id="#" placeholder="Nome">
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(model => model.Nome)
+                </span>
+                <br />
+            </div>
+            <div class="mb-3">
+                <label for="formGroupExampleInput2" class="form-label">Data de Nascimento</label>
+                <input type="date" class="form-control" asp-for="@Model.DataNascimento" id="#" placeholder="Data de Nascimento">
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(model => model.DataNascimento)
+                </span>
+                <br />
+            </div>
+            <div class="mb-3">
+                <label for="formGroupExampleInput2" class="form-label">Matricula</label>
+                <input type="text" class="form-control" asp-for="@Model.Matricula" id="#" placeholder="Matricula">
+                <span class="text-danger">
+                    @Html.ValidationMessageFor(model => model.Matricula)
+                </span>
+                <br />
+            </div>
+        </div>
+
+        <input type="submit" value="Salvar Alterações"
+               class="btn btn-success" />
+
+    </form>
+</div>

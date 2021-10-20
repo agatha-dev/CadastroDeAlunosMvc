@@ -1,0 +1,62 @@
+﻿@model CadastroDeAlunosMvc.Models.AlunoConsultaModel
+
+@{
+    ViewData["Title"] = "Consulta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h5 class="h5">Consulta de Alunos</h5>
+
+
+
+@if (Model != null)
+{
+    if (Model.Alunos != null && Model.Alunos.Count > 0)
+    {
+        <div class="row mt-4">
+            <div class="col-md-12">
+
+                <table id="grid_dados" class="table">
+                    <thead>
+                        <tr>
+                            <th>Nome do Aluno</th>
+                            <th>Matricula</th>
+                            <th>Data de Nascimento</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model.Alunos)
+                        {
+                            <tr>
+                                <td>@item.Nome</td>
+                                <td>@item.Matricula</td>
+                                <td>@item.DataNascimento.ToString("dd/MM/yyyy")</td>
+                                <td>
+                                    <a href="/Aluno/Edicao?id=@item.Id"
+                                       class="btn btn-primary btn-sm">
+                                        Alterar
+                                    </a>
+                                    <a href="/Aluno/Exclusao?id=@item.Id"
+                                       onclick="return confirm('Deseja excluir o aluno @item.Nome?');"
+                                       class="btn btn-danger btn-sm">
+                                        Excluir
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="3">
+                                Quantidade de registros: @Model.Alunos.Count
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+            </div>
+        </div>
+    }
+}

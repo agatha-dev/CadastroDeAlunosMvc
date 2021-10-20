@@ -1,0 +1,12 @@
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\bin\Debug\net5.0\ProjetoPresentationMvc.deps.json
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\bin\Debug\net5.0\ProjetoPresentationMvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\bin\Debug\net5.0\ref\ProjetoPresentationMvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\bin\Debug\net5.0\ProjetoPresentationMvc.pdb
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.csproj.AssemblyReference.cache
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.AssemblyInfoInputs.cache
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.AssemblyInfo.cs
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.csproj.CoreCompileInputs.cache
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ref\ProjetoPresentationMvc.dll
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoPresentationMvc\obj\Debug\net5.0\ProjetoPresentationMvc.pdb

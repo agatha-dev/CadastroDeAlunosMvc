@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2G72xP2r19ALUqmMRaMmIzO90fOq8PIGzrIvFfMR/00i5G6Md4pDNICSp0ZHqXyVTcoSaRXp0YmSTOSVyWoWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agath\\source\\repos\\CadastroDeAlunosMvc\\ProjetoPresentationMvc\\ProjetoPresentationMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agath\\.nuget\\packages\\microsoft.aspnetcore.testhost\\5.0.11\\microsoft.aspnetcore.testhost.5.0.11.nupkg.sha512",
+    "C:\\Users\\agath\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
