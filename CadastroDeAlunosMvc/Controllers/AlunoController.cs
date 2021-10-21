@@ -60,7 +60,7 @@ namespace CadastroDeAlunosMvc.Controllers
 
                 if (model.Alunos.Count > 0)
                 {
-                    TempData["MensagemSucesso"] = $"Consulta realizada com sucesso. {model.Alunos.Count} fornecedore(s) obtido(s).";
+                    TempData["MensagemSucesso"] = $"Consulta realizada com sucesso. {model.Alunos.Count} Aluno(s) obtido(s).";
                 }
                 else
                 {
