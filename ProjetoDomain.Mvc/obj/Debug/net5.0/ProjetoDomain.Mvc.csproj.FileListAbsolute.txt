@@ -9,3 +9,4 @@ C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5
 C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.dll
 C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ref\ProjetoDomain.Mvc.dll
 C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.pdb
+C:\Users\agath\source\repos\CadastroDeAlunosMvc\ProjetoDomain.Mvc\obj\Debug\net5.0\ProjetoDomain.Mvc.csproj.AssemblyReference.cache

@@ -145,7 +145,7 @@ namespace CadastroDeAlunosMvc.Controllers
 
                     alunoRepository.Update(aluno);
 
-                    TempData["MensagemSucesso"] = $"Fornecedor '{aluno.Nome}', atualizado com sucesso.";
+                    TempData["MensagemSucesso"] = $"Aluno '{aluno.Nome}', atualizado com sucesso.";
                 }
                 catch (Exception e)
                 {

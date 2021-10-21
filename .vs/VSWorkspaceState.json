@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProjetoDomain.Mvc\\bin",
+    "\\ProjetoDomain.Mvc\\Contracts\\Repositories",
+    "\\ProjetoDomain.Mvc\\Contracts\\Services",
+    "\\ProjetoDomain.Mvc\\obj",
+    "\\ProjetoDomain.Mvc\\Service",
+    "\\ProjetoInfraMvc",
+    "\\ProjetoInfraMvc\\Contexts",
+    "\\ProjetoInfraMvc\\Mappings",
+    "\\ProjetoPresentationMvc"
+  ],
+  "PreviewInSolutionExplorer": false
+}
