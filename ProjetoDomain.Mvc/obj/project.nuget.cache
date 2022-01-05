@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KI35xKKFzWQkacAA0Lk3xLgDRn3ep5jCwgYZnC1NNUClZy//65N1bzCjNaNBTSUrsfiulBuqlCXXrmCgXrZc+w==",
+  "dgSpecHash": "AWYhs0sd1oJZ4v8My7j5RtwSSc6ZhbxLW7294kLlxP373NTyeFoX/LG0MEaaNbdOks09zaC1ZySaYVbr0iRwRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agath\\source\\repos\\CadastroDeAlunosMvc\\ProjetoDomain.Mvc\\ProjetoDomain.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\agath\\Source\\Repos\\CadastroDeAlunosMvc\\ProjetoDomain.Mvc\\ProjetoDomain.Mvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7JfxUvR8KkjqFpq9npEzPRz3vg+BW3/vGRZHU6crEZMXIpBB08+kt8gAhA14p+xUh/9nd1PgyJlNSM0Uw//VCA==",
+  "dgSpecHash": "Uz7Nztdhtq1xpWEkHDjM2JJDI6NPxgt9URPTxcBQL5Jco9e2Pi4Js20/G5fZ+yHcDi36OIKU/QmEApPTG15qSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agath\\source\\repos\\CadastroDeAlunosMvc\\ProjetoInfraMvc\\ProjetoInfraMvc.csproj",
+  "projectFilePath": "C:\\Users\\agath\\Source\\Repos\\CadastroDeAlunosMvc\\ProjetoInfraMvc\\ProjetoInfraMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agath\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
     "C:\\Users\\agath\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
